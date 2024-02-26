@@ -1,0 +1,23 @@
+.content__cover img {
+  max-width: 600px;
+  margin: 10px 0px;
+}
+.content__cover {
+  display: flex;
+  justify-content: center;
+}
+.content__title {
+  text-align: center;
+}
+.content__description {
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-bottom: 100px;
+  margin-right: 250px;
+}
+a {
+  padding: 5px 10px;
+  background-color: rgb(165, 165, 39);
+  border-radius: 50px;
+  margin-left: 50%;
+}

@@ -1,0 +1,12 @@
+.container__title > hr {
+  margin: 15px 0px;
+}
+.container__title > p {
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 100px;
+  font-weight: 750;
+}

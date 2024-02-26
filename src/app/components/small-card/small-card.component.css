@@ -1,0 +1,18 @@
+.container__small-card {
+  display: flex;
+  max-width: 500px;
+}
+
+.small-card__foto img {
+  max-width: 120px;
+  height: 70px;
+}
+hr {
+  margin: 10px 0px;
+}
+.small-card__title {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

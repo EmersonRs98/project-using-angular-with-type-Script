@@ -1,0 +1,8 @@
+.container__menu ul {
+  display: flex;
+  gap: 25px;
+}
+span {
+  display: flex;
+  border: 1px solid white;
+}
